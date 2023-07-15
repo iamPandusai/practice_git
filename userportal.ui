@@ -39,7 +39,7 @@
     <property name="styleSheet">
      <string notr="true"/>
     </property>
-    <property name="text">
+    <property name="textt">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;RIDER NAME  :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
